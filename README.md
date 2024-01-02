@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Full stack developer</h1>
 <h3 align="center">Building Seamless Web and Mobile Solutions with Passion and Precision 💡🌐📱</h3>
-target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 <!--
 **asar109/asar109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
