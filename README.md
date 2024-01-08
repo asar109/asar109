@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Full stack developer</h1>
-<h3 align="center">Building Seamless Web and Mobile Solutions with Passion and Precision 💡🌐📱</h3>
+<h3 align="center">Building Seamless Web and Mobile Solutions with Passion and Precision 🌐📱</h3>
 
 <!--
 **asar109/asar109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
