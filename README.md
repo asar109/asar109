@@ -26,7 +26,6 @@ I believe in the power of collaboration and communication. I work closely with c
 - **Programming Languages**: JavaScript, Typescript, Dart
 - **Technologies**: React JS, Next JS, Prisma, Node JS, FLutter, GetX, Express Js, MongoDB, Github, Chakra UI, ShadeCN UI, Tailwind CSS, Socket.io, Live Kit, Cleark Auth, Replicate's APIs and much more.
 
-// ## Projects
 
 ## GitHub Stats
 
