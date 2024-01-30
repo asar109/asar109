@@ -18,8 +18,8 @@ I'm Asar, a passionate full-stack developer. Welcome to my GitHub profile!
 I believe in the power of collaboration and communication. I work closely with clients to understand their goals and deliver solutions that not only meet but exceed their expectations. My commitment to excellence and attention to detail sets me apart in the freelancing community.
 
 - 🌐 [Mernist](https://mernist.me)
-- 📚 Coding, Music 
-- 📫 +93042336109
+- 📫 themernist@gmail.com
+- 📚 Programming & Music 
 
 ## Skills
 
