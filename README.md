@@ -3,7 +3,6 @@
 
 I'm Asar, a passionate full-stack developer. Welcome to my GitHub profile!
 
-## About Me
 
 ### 💼 Freelance Developer and Creative Professional
 
