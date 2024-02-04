@@ -1,4 +1,8 @@
 
+
+<img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
 # Hi there! 👋
 
 I'm Asar, a passionate full-stack developer. Welcome to my GitHub profile!
