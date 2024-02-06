@@ -8,7 +8,7 @@
 I'm Asar, a passionate full-stack developer.
 
 
-### 💼 Freelance Developer and Creative Professional
+## 💼 Freelance Developer and Creative Professional
 
 ### What I Do
 
@@ -24,7 +24,7 @@ I believe in the power of collaboration and communication. I work closely with c
 - 📫 themernist@gmail.com
 - 📚 Programming & Music 
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 - **Programming Languages**: JavaScript, Typescript, Dart
 - **Technologies**: React JS, Next JS, Prisma, Node JS, Flutter, GetX, Express Js, MongoDB, Github, Chakra UI, ShadeCN UI, Tailwind CSS, Socket.io, Live Kit, Cleark Auth, Replicate's APIs and much more.
