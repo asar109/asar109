@@ -22,7 +22,7 @@ I believe in the power of collaboration and communication. I work closely with c
 
 - 🌐 [Mernist](https://mernist.me)
 - 📫 themernist@gmail.com
-- 📚 Programming & Music 
+- 📚 Programming + Music 
 
 ## 🛠️ Skills
 
