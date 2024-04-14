@@ -5,8 +5,6 @@
   
 </div>
 
-
-![Contribution](https://github.com/asar109/asar109/blob/output/github-contribution-grid-snake-dark.svg)
 <br/>
 
 I'm Asar, a passionate full-stack developer.
