@@ -28,7 +28,7 @@ I believe in the power of collaboration and communication. I work closely with c
 ## 🛠️ Skills
 
 - **Programming Languages**: JavaScript, Typescript, Dart
-- **Technologies**: React JS, Next JS, Prisma, Node JS, Flutter, GetX, Express Js, MongoDB, Github, Chakra UI, ShadeCN UI, Tailwind CSS, Socket.io, Live Kit, Cleark Auth, Replicate's APIs and much more.
+- **Technologies**: React JS, Next JS, Prisma, Node JS, Flutter, GetX, GraphQL Express Js, MongoDB, Github, Chakra UI, ShadeCN UI, Tailwind CSS, Socket.io, Live Kit, Cleark Auth, Replicate's APIs and much more.
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
