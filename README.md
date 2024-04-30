@@ -44,6 +44,7 @@ I believe in the power of collaboration and communication. I work closely with c
 
 ## Let's Connect!
 
+- [Upwork](https://www.upwork.com/freelancers/~017a402d7f347b8792)
 - [LinkedIn](www.linkedin.com/in/asar109)
 
 
