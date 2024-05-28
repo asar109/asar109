@@ -45,6 +45,8 @@ I believe in the power of collaboration and communication. I work closely with c
 ## Let's Connect!
 
 - [LinkedIn](www.linkedin.com/in/asar109)
+- [WhatsApp](https://wa.me/+923042336109)
+  
 
 
 Feel free to explore my repositories and reach out. I'm always open to collaborations and interesting projects!
