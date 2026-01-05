@@ -24,9 +24,9 @@ I believe technology should be intuitive. I don't just write code; I build **int
 
 ## 🛠️ Skills
 
-- **Programming Languages**: JavaScript, TypeScript, Dart, Python (basic)
+- **Programming Languages**: JavaScript, TypeScript, Dart, Python,
 - **AI & ML**: OpenAI API, Gemini API, Groq, LangChain, Vercel AI SDK, Supabase Vector, RAG Pipelines, Prompt Engineering.
-- **Web Technologies**: React JS, Next JS, Node JS, Express JS, GraphQL, Socket.io, LiveKit (Real-time Video).
+- **Web Technologies**: React JS, Next JS, Node JS, Express JS, GraphQL, FastAPI, Socket.io, LiveKit (Real-time Video).
 - **Database & Cloud**: Supabase (PostgreSQL), MongoDB, Prisma, Clerk Auth, Firebase.
 - **UI/UX**: Tailwind CSS, Shadcn UI, Chakra UI, Framer Motion.
 
