@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 <br/>
 <div width="100%" align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" />
+  <img src="https://camo.githubusercontent.com/2deac39daa0924a345790ce050107aa19c8c49dbc73aa6fce086b83bc95fe784/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" />
 </div>
 
 <br/>
