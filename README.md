@@ -14,7 +14,7 @@ I'm Asar, a passionate **Full Stack Developer** and **Generative AI Engineer**.
 
 - **Generative AI & LLM Engineering**: Building "Smart" applications using **OpenAI**, **Gemini**, and **Groq** APIs. I specialize in creating **AI Agents**, **Chatbots**, and **RAG (Retrieval-Augmented Generation)** systems that allow apps to "talk" to custom data.
 - **Full Stack Web Development**: Crafting responsive, high-performance websites using **Next.js 15**, **React**, **Node.js**, **Supabase**, and **PostgreSQL**.
-- **Mobile App Development**: Building cross-platform native applications tailored to specific requirements using **React Native** & **Flutter**.
+- **Mobile App Development**: Building cross-platform native applications tailored to specific requirements using **React Native**.
 - **Consulting**: Providing expert advice on modernizing legacy apps with AI integration.
 
 ### My Approach
@@ -24,9 +24,9 @@ I believe technology should be intuitive. I don't just write code; I build **int
 
 ## 🛠️ Skills
 
-- **Programming Languages**: JavaScript, TypeScript, Dart, Python,
-- **AI & ML**: OpenAI API, Gemini API, Groq, LangChain, Vercel AI SDK, Supabase Vector, RAG Pipelines, Prompt Engineering.
-- **Web Technologies**: React JS, Next JS, Node JS, Express JS, GraphQL, FastAPI, Socket.io, LiveKit (Real-time Video).
+- **Programming Languages**: JavaScript, TypeScript,
+- **AI & ML**: OpenAI API, Gemini API, Groq, LangChain, Vercel AI SDK, Supabase Vector, RAG Pipelines.
+- **Web Technologies**: React JS, Next JS, Node JS, Express JS, GraphQL, Socket.io.
 - **Database & Cloud**: Supabase (PostgreSQL), MongoDB, Prisma, Clerk Auth, Firebase.
 - **UI/UX**: Tailwind CSS, Shadcn UI, Chakra UI, Framer Motion.
 
