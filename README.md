@@ -25,7 +25,7 @@ I believe technology should be intuitive. I don't just write code; I build **int
 ## 🛠️ Skills
 
 - **Programming Languages**: JavaScript, TypeScript,
-- **AI & ML**: OpenAI API, Gemini API, Groq, LangChain, Vercel AI SDK, Supabase Vector, RAG Pipelines.
+- **AI & ML**: OpenAI API, Gemini API, Groq, LangChain, Vector Embedding, RAG Pipelines.
 - **Web Technologies**: React JS, Next JS, Node JS, Express JS, GraphQL, Socket.io.
 - **Database & Cloud**: Supabase (PostgreSQL), MongoDB, Prisma, Clerk Auth, Firebase.
 - **UI/UX**: Tailwind CSS, Shadcn UI, Chakra UI, Framer Motion.
@@ -40,7 +40,7 @@ I believe technology should be intuitive. I don't just write code; I build **int
 ## Let's Connect!
 
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asar109) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asar-dev) 
   [![Website](https://img.shields.io/badge/Portfolio-Mernist.me-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mernist.me)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923042336109)
   [![Email](https://img.shields.io/badge/Email-themernist%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themernist@gmail.com)
